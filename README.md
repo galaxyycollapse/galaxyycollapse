@@ -1,4 +1,7 @@
 Hello! I'm @galaxyycollapse!!
-I like RPGs in general, bullet hell games, metroidvanias, hack n' slash... yeah, it's a really big list...
-I'm currently learning C# and Python, and since I'm learning, I'm not looking to collaborate on anything, but this'll change as soon as I "finish" learning one of these languages.
+I'm a student focused on GameDev, but that's looking into backend as well.
+I'm interested in C#, Python, C++ and Java and currently studying C# and Python.
+
+Since I'm still learning those languages I'll not be involved in projects nor anything else, still, I may be creating or looking into some exceptions.
+
 If you want to reach me, I'm available on twitter! It's @yStardustKitten
